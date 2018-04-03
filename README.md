@@ -1,4 +1,4 @@
-## React Native Version
+## React Native version
   - react-native-cli: 2.0.1
   - react-native: 0.54.0
 
@@ -10,7 +10,7 @@ npm i base-64
 
 ---------------------
 
-## Install react-native
+## Install react
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
