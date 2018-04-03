@@ -1,7 +1,3 @@
-// Version
-// react-native-cli: 2.0.1
-// react-native: 0.54.0
-
 import React, { Component } from 'react';
 import {
   AppRegistry,
