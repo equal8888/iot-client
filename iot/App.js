@@ -115,7 +115,7 @@ export default class App extends React.Component {
        // request succeed.
    })
    .catch(function(err) {
-       // error: response error, request timeout or runtime error.
+       // err handling: response error, request timeout or runtime error.
    Alert.alert(
      'Help',
      '- Make sure that your phone is on the same network and iot device is powered on',
