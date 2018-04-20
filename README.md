@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1bz4_g5E_KPmY9lXt0XjDBoczEoVM0foL/view?usp=sharing/>
+<img src="https://drive.google.com/file/d/1bz4_g5E_KPmY9lXt0XjDBoczEoVM0foL/view?usp=sharing" width="300" height="450"/>
 
 ## React Native version
   - react-native-cli: 2.0.1
