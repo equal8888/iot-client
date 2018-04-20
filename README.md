@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?id=1bz4_g5E_KPmY9lXt0XjDBoczEoVM0foL" width="300" height="450"/>
+
 ## React Native version
   - react-native-cli: 2.0.1
   - react-native: 0.54.0
